@@ -1,0 +1,47 @@
+{
+  "nodes": [
+    {"id": "red"},
+    {"id": "orange"},
+    {"id": "yellow"},
+    {"id": "green"},
+    {"id": "blue"},
+    {"id": "violet"},
+    {"id": "purple"},
+    {"id": "teal"},
+    {"id": "black"},
+    {"id": "gray"},
+    {"id": "lightblue"},
+    {"id": "brown"}
+  ],
+  "links": [
+    {"source": "green", "target": "yellow"},
+    {"source": "red", "target": "green"},
+    {"source": "violet", "target": "green"},
+    {"source": "purple", "target": "yellow"},
+    {"source": "red", "target": "violet"},
+    {"source": "orange", "target": "green"},
+    {"source": "violet", "target": "yellow"},
+    {"source": "blue", "target": "teal"},
+    {"source": "orange", "target": "violet"},
+    {"source": "green", "target": "yellow"},
+    {"source": "violet", "target": "green"},
+    {"source": "red", "target": "green"},
+    {"source": "green", "target": "yellow"},
+    {"source": "black", "target": "violet"},
+    {"source": "teal", "target": "green"},
+    {"source": "red", "target": "gray"},
+    {"source": "lightblue", "target": "green"},
+    {"source": "green", "target": "brown"},
+    {"source": "teal", "target": "yellow"},
+    {"source": "black", "target": "green"},
+    {"source": "brown", "target": "green"},
+    {"source": "lightblue", "target": "yellow"},
+    {"source": "red", "target": "violet"},
+    {"source": "orange", "target": "green"},
+    {"source": "violet", "target": "yellow"},
+    {"source": "violet", "target": "teal"},
+    {"source": "orange", "target": "violet"},
+    {"source": "green", "target": "gray"}
+  ]
+
+}
